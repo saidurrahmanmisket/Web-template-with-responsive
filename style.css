@@ -37,7 +37,7 @@
 }
 .header_img{
     height: 300px;
-    background-image: linear-gradient(to right, rgb(18, 65, 30) ,rgb(167, 221, 174),rgb(18, 65, 30) );
+    background-image: linear-gradient(to right,  rgb(35, 65, 231) , rgb(0, 195, 255) ,   rgb(35, 65, 231) );
 }
 .header_down{
     text-align: center;
@@ -125,7 +125,7 @@
 .thing_img{
     height: 100%;
     width: 33.3333%;
-    background-image: linear-gradient(to bottom, rgb(18, 65, 30) ,rgb(167, 221, 174));
+    background-image: linear-gradient(to bottom, rgb(0, 195, 255) , rgb(35, 65, 231));
 }
 .thing_text{
     height: 100%;
@@ -142,6 +142,7 @@
     padding-top: 40px;
 }
 .section5_text{
+    color: white;
     width: 80%;
 }
 .section5_text h4{
